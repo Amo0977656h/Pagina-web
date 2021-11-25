@@ -1,0 +1,44 @@
+body{
+    background: white;
+    margin: 100px;
+}
+h1{
+    color: brown; 
+    font-size: 50px;
+}
+h3{
+    color: chocolate;
+}
+li{
+
+    color: cornflowerblue;
+}
+h5{
+    color: rgb(194, 193, 190);
+}
+a{
+    color: rgb(139, 125, 0);
+    display: inline-block;
+    background-color: rgb(235, 221, 178);
+    padding: 10px 15px;
+    text-decoration: none;
+}
+a:hover{
+    background:rgb(154, 159, 165)
+}
+nav{ 
+    color: rgb(83, 115, 145);
+}
+blockquote1{
+    color: rgb(0, 0, 0);
+}
+h4{
+    color: rgb(158, 97, 18);
+}
+.titulo{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+}
